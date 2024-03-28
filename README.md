@@ -1,3 +1,29 @@
+<font size ="10"><b>Descrição do Exercício:</b></font>
+<font size="8">Integração e Tratamento de Dados:</font>
+
+<font size="8">Integrar as bases de dados de vendas (2016, 2017, 2018) em um único modelo.
+Associar as bases de Cadastro (Clientes, Localidades, Lojas, Produtos) ao modelo de vendas, garantindo a integridade referencial.
+Tratar e limpar os dados.<br>
+<br><b>Análise de Dados com DAX:</b></font>
+
+<font size="8">Criar colunas calculadas e medidas utilizando DAX que permitam analisar:
+Total de Vendas por Ano
+Vendas por Categoria de Produto
+Taxa de Devolução por Produto
+Vendas por Loja e Localidade
+Utilizar DAX para calcular a média de vendas mensais e identificar meses com desempenho acima ou abaixo da média.
+<br><br><b>Visualização e Insights no PowerBI:</b></font>
+
+<font size="8">Desenvolver um dashboard no PowerBI que apresente:
+Evolução das vendas ao longo dos anos
+Evolução do valor acumulado das Vendas por ano
+Comparativo de vendas por categoria de produtos
+Análise de devoluções por produto e motivo
+Performance de vendas por localidade e loja<br>
+<b>O dashboard deve ser intuitivo e fornecer insights claros, utilizando gráficos adequados para cada tipo de análise.</b>
+</font>
+<br><br><br>
+--------------------------------------------------------------------------------------------------------------------------------------<br><br>
 <font size ="10"><b>Requisitos para rodar o projeto</b></font>
 <br><br>
 Instalação do Python,Power BI,Excel e duas frameworks <b>openpyxl</b> e <b>pandas</b>
